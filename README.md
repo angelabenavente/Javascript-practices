@@ -2,7 +2,7 @@
 
 ## Intensive course exercises of:
 1. If/else statements
-2. Fnctions
+2. Functions
 3. Events  
 4. Objects and classes  
 5. Arrays and loops  
