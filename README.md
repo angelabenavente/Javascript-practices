@@ -1,12 +1,12 @@
 # Javascript-practices
 
-Intensive course exercises of:
--If/else statements.
--Functions.
--Events.
--Objects and classes.
--Arrays and loops.
--Functional programing.
--APis and localstore.
--Advanced DOM.
--JS ES6.
+## Intensive course exercises of:
+1. If/else statements
+2. Fnctions
+3. Events  
+4. Objects and classes  
+5. Arrays and loops  
+6. Functional programing  
+7. APIs and Localstore  
+8. Advanced DOM  
+9. JS ES6  
